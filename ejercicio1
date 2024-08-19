@@ -1,0 +1,7 @@
+# Definir dos variables numéricas con valores distintos
+numero1 = 10
+numero2 = 5	
+# Realizar una operación (en este caso, una suma)
+resultado = numero1 + numero2
+# Mostrar el resultado por pantalla
+print("El resultado de la operación es:", resultado)
