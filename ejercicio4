@@ -1,0 +1,6 @@
+# Solicitar al usuario que ingrese su nombre
+nombre = input("Ingrese su nombre: ")
+# Solicitar al usuario que ingrese su DNI
+dni = input("Ingrese su DNI: ")
+# Imprimir el mensaje con el nombre y DNI del usuario
+print(f"El nombre del usuario es {nombre} y su DNI es {dni}.")
